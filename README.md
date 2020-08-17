@@ -1,3 +1,3 @@
 # timsheet
 
-Practice project @ Vega IT
+Practice project 
