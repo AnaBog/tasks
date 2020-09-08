@@ -1,3 +1,3 @@
-# timsheet
+# timesheet
 
 Practice project 
